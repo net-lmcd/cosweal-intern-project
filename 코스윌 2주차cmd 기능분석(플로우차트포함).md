@@ -74,3 +74,4 @@ admin은 모든 설치된 기계의 위치를 띄워준다
 
 
 
+![메인](https://user-images.githubusercontent.com/44186682/64599605-a4179280-d3f4-11e9-8574-562052e96957.png)
