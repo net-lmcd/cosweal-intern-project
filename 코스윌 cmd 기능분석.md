@@ -70,4 +70,7 @@ admin은 모든 설치된 기계의 위치를 띄워준다
 질문과 응답을 해주는 공간 모든 인원 접속가능
 
 
+![플로우차트3](https://user-images.githubusercontent.com/44186682/64598407-a11ba280-d3f2-11e9-9bef-e2dcd1b92f20.png)
+
+
 
